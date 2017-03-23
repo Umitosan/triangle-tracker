@@ -1,3 +1,11 @@
 .tri-info {
   display: none;
 }
+
+.jumbotron {
+  text-align: center;
+}
+
+.tri-form {
+  width: 50%;
+}
